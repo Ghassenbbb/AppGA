@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\ghassan\source\repos\AppGA\Properties\PublishProfiles\Ghassenbbb.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AppGa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\CMB\FormSuppMsgBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormGestionArticles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormGestionCommandes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormGestionStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GA\FormAjoutArticle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GA\FormAjoutFamille.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GA\FormArticles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GA\FormFamilles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GC\AjouterClient.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GC\AjouterCommande.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GC\ArticleItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GC\FormClients.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GC\FormCommandes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GS\AjouterFourn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GS\AjouterStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GS\FormFournisseurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GS\FormStocks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
